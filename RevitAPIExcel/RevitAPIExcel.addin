@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>"C:\Program Files\RevitAPITrainig\RevitAPIExcel.dll"</Assembly>
+    <AddInId>CE02F07B-C056-4549-BBA3-1431007A9098</AddInId>
+    <FullClassName>RevitAPIExcel.Main</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <Text>WallsExcel</Text>
+  </AddIn>
+</RevitAddIns>
